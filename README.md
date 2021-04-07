@@ -4,7 +4,7 @@ Easy Hacking CCTV Cameras
 ```
 sudo apt-get install python3
 apt-get install git
-git clone https://github.com/Sn8ow/Cam-Off
+git clone https://github.com/Sn8ow/Cam-Off.git
 pip3 install requests
 pip3 install colorama
 cd Cam-Off
