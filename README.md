@@ -8,7 +8,7 @@ git clone https://github.com/Sn8ow/Cam-Off.git
 pip3 install requests
 pip3 install colorama
 cd Cam-Off
-python3 cam-hackers.py
+python3 cam-off.py
 ```
 # Photo
 ![aphoto](https://user-images.githubusercontent.com/80784394/113880791-1791a980-97bc-11eb-82ae-6dd00f39e12c.png)
