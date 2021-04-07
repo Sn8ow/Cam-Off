@@ -1,6 +1,6 @@
 # Cam-Off
 Easy Hacking CCTV Cameras
-# Install
+# Install (Kali Linux)
 ```
 sudo apt-get install python3
 apt-get install git
