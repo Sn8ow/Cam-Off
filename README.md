@@ -12,6 +12,7 @@ python3 cam-off.py
 ```
 # Install (Windows)
 You must download Python [Download Python Page](https://www.python.org/downloads/)
+
 Clone this repoistory [Click Me](https://github.com/Sn8ow/Cam-Off/archive/refs/heads/main.zip)
 ```
 pip install requests 
