@@ -10,15 +10,6 @@ pip3 install colorama
 cd Cam-Off
 python3 cam-off.py
 ```
-# Install (Windows)
-You must download Python [Download Python Page](https://www.python.org/downloads/)
-
-Clone this repoistory [Click Me](https://github.com/Sn8ow/Cam-Off/archive/refs/heads/main.zip)
-```
-pip install requests 
-pip install colorama
-python cam-off.py
-```
 # Photo
 ![aphoto](https://user-images.githubusercontent.com/80784394/113880791-1791a980-97bc-11eb-82ae-6dd00f39e12c.png)
 ![aphoto2](https://user-images.githubusercontent.com/80784394/113880806-1a8c9a00-97bc-11eb-9854-42ec05221a99.png)
